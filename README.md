@@ -1,4 +1,7 @@
+[<img align="right" width="250" height="auto" src="./animoji-v1.png">](https://linkedin.com/in/varshit-shah/)
+
 ### Hi there 👋
+
 
 <!--
 **Varshit07/Varshit07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
