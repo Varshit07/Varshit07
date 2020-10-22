@@ -1,7 +1,7 @@
 [<img align="right" width="250" height="auto" src="./animoji-v1.png">](https://linkedin.com/in/varshit-shah/)
 
 
-### Hi there 🙋🏻‍♂️
+### Hey 🙋🏻‍♂️
 
 My name is Varshit Shah. I am studying Software Engineering.
 
