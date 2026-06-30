@@ -1,6 +1,100 @@
+# Hi there, I'm Varshit Shah 👋
 [<img align="right" width="250" height="auto" src="./animoji-v1.png">](https://linkedin.com/in/varshit-shah/)
 
 
+### Software Engineer | Distributed Systems | Full-Stack Development  | Cybersecurity
+
+I'm a Software Engineer with 4+ years of experience designing and building enterprise cybersecurity and data protection solutions. I currently work at **Cohesity (formerly Veritas Technologies)**, where I contribute across both **backend services** and **frontend applications**, building scalable, cloud-native solutions for ransomware detection, anomaly detection, cyber resilience, and enterprise SaaS platforms.
+
+## 🚀 About Me
+
+- 💻 Software Engineer with experience in **backend, frontend, and cloud-native development**
+- 🔒 Passionate about cybersecurity, distributed systems, and enterprise software
+- 🌐 Built customer-facing UIs as well as scalable backend microservices
+- ☁️ Experienced with cloud infrastructure, Kubernetes, and AWS
+- 📈 Enjoy solving complex engineering problems and building reliable, production-ready systems
+
+## 🛠️ Tech Stack
+
+### Languages
+- Go
+- Python
+- Java
+- Scala
+- TypeScript
+- JavaScript
+- C++
+- C
+
+### Frontend
+- Angular
+- TypeScript
+- HTML5
+- CSS3
+- RxJS
+
+### Backend
+- Go
+- Python
+- Java
+- Scala
+- Node.js
+
+### Databases
+- MongoDB
+- PostgreSQL
+- SQL
+
+### Cloud & DevOps
+- Kubernetes
+- Docker
+- AWS (EC2, ECS, EKS, RDS, S3)
+- Terraform
+- CloudFormation
+- Jenkins
+
+### Testing
+- JUnit
+- Jest
+- Selenium
+- Appium
+- JMeter
+- Ginkgo
+
+## 💼 Professional Experience
+
+### Cohesity (formerly Veritas Technologies)
+
+- Engineered end-to-end anomaly detection pipelines for enterprise backup workloads.
+- Developed ransomware detection capabilities for Microsoft 365 backup workloads.
+- Built and enhanced distributed backend microservices using Go, Java, Python, and Scala.
+- Designed and developed customer-facing Angular applications and cybersecurity dashboards.
+- Built interactive visualizations for malware analysis and cyber resilience.
+- Developed secure certificate lifecycle management functionality for enterprise infrastructure.
+
+## 🌱 Currently Exploring
+
+- Distributed Systems
+- System Design
+- Kubernetes
+- Cloud Infrastructure
+- High-Performance Backend Engineering
+
+## 📌 Featured Projects
+
+### 🛡️ Mask Detection & Monitoring System
+A real-time face mask detection system using **TensorFlow**, **OpenCV**, **React**, and **Node.js**, deployed on Raspberry Pi with a live analytics dashboard.
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/varshit-shah
+- 📧 Email: varshitshah97@gmail.com
+
+---
+
+> *"Building scalable software that powers secure and reliable systems."*
+
+<!--
 ### Hey 🙋🏻‍♂️
 
 My name is Varshit Shah. I am studying Software Engineering.
@@ -24,7 +118,7 @@ Reach out to me on:
 - ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 - ![EC2](https://img.shields.io/badge/-EC2-333333?style=flat&logo=amazon-aws) ![RDS](https://img.shields.io/badge/-RDS-333333?style=flat&logo=amazon-aws) ![Elastic Beanstalk](https://img.shields.io/badge/-Elastic%20Beanstalk-333333?style=flat&logo=amazon-aws) ![S3](https://img.shields.io/badge/-S3-333333?style=flat&logo=amazon-aws)
-
+-->
 <!--
 **Varshit07/Varshit07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
